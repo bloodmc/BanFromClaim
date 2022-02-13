@@ -12,7 +12,7 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerMoveEvent;
 
-import com.flowpowered.math.vector.Vector3i;
+import com.griefdefender.lib.flowpowered.math.vector.Vector3i;
 import com.griefdefender.api.Core;
 import com.griefdefender.api.GriefDefender;
 import com.griefdefender.api.claim.Claim;

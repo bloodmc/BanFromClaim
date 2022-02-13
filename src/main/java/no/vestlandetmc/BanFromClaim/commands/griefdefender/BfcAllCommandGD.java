@@ -6,7 +6,7 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
-import com.flowpowered.math.vector.Vector3i;
+import com.griefdefender.lib.flowpowered.math.vector.Vector3i;
 import com.griefdefender.api.Core;
 import com.griefdefender.api.GriefDefender;
 import com.griefdefender.api.claim.Claim;
